@@ -1,4 +1,4 @@
-# DroneSystem v1
+# DroneSystem
 I started working on this system back in November of 2021 and had the [first working show](https://www.youtube.com/watch?v=IsQ76SjTkMc) in January of 2022.
 As of November of 2022, it has been used two times in total.
 
